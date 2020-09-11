@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/.vs/ai_reader_demo/v15/Browse.VC.db
+/.vs/ai_reader_demo/v15/Browse.VC.opendb
